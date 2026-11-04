@@ -1,44 +1,43 @@
-# AI-SUPPLY-CHAIN-OPTIMIZATION
-# AI Supply Chain & Inventory Optimization Platform
+## Week 1 – Dataset Understanding and Exploratory Data Analysis
 
-## 1. Project Overview
-An AI-driven supply chain and inventory optimization project designed to analyze manufacturing data, improve inventory visibility, monitor supply chain performance, and support better business decisions.
+### Dataset Overview
+- Dataset: Manufacturing Supply Chain Dataset
+- Records analysed: 200,000
+- Total columns: 52
+- Numeric columns: 42
 
-## 2. Problem Statement
-Manufacturing industries face challenges such as excess inventory, stockouts, supplier delays, and inefficient supply chain operations. This project aims to analyze these challenges using data analytics and interactive dashboards.
-
-## 3. Dataset Overview
-- Total Records: 2,000,000
-- Total Columns: 52
-- Date Range: 2023-01-01 to 2025-12-30
-
-## 4. Technologies Used
+### Tools and Libraries
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- MySQL
-- Power BI
+- Jupyter Notebook
 
-## 5. Week 1 – Exploratory Data Analysis
-- Dataset understanding
-- Data quality validation
-- Missing value analysis
-- Duplicate record checks
-- Statistical summaries
-- Distribution analysis
-- Outlier identification
+### EDA Activities
+1. Dataset loading and inspection.
+2. Column names and data type analysis.
+3. Missing value validation.
+4. Duplicate record validation.
+5. Statistical analysis using mean, median, standard deviation, variance and percentiles.
+6. Outlier detection using the IQR method.
+7. Categorical feature distribution analysis.
 
-## 6. Dashboard Development
-- Admin Dashboard
-- Management Dashboard
+### Data Quality Results
 
-## 7. My Contributions
-- Dataset understanding
-- Exploratory Data Analysis
-- Admin Dashboard
-- Management Dashboard
+| Metric | Result |
+|---|---:|
+| Total records | 200,000 |
+| Missing values | 0 |
+| Duplicate records | 0 |
+| Unique records | 200,000 |
+| Numeric columns analysed | 42 |
 
-## 8. Project Objective
-To transform manufacturing data into meaningful insights and support data-driven supply chain and inventory decisions.
+### Technical Files
+- `EDA.ipynb` – Exploratory Data Analysis notebook.
+- `reports/dataset_overview.csv` – Dataset summary.
+- `reports/missing_values.csv` – Missing value report.
+- `reports/statistical_summary.csv` – Statistical metrics.
+- `reports/outlier_report.csv` – IQR-based outlier analysis.
+- Categorical distribution CSV reports.
+
+### Learning Outcomes
+Learned how to load and inspect datasets using Pandas, perform data quality validation, calculate descriptive statistics, identify potential outliers and analyse categorical distributions.
