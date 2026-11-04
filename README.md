@@ -41,3 +41,21 @@
 
 ### Learning Outcomes
 Learned how to load and inspect datasets using Pandas, perform data quality validation, calculate descriptive statistics, identify potential outliers and analyse categorical distributions.
+## Week 2 – Python Business Logic and Generative AI
+
+### Implemented Features
+- Python-based data processing using Pandas.
+- Inventory and supplier risk analysis.
+- Business metrics calculation.
+- Statistical comparisons.
+- Gemini API integration using Google GenAI SDK.
+- AI-generated supply chain recommendations.
+
+### Key Results
+- Dataset records: 200,000
+- Low stock records: 10,094
+- Critical stock records: 5,034
+- High supplier risk records: 149,419
+
+### Technologies
+Python, Pandas, JSON, Google Gemini API.
