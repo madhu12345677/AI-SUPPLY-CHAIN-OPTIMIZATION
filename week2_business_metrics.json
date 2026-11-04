@@ -1,0 +1,10 @@
+{
+    "total_records": 200000,
+    "low_stock_records": 10094,
+    "critical_stock_records": 5034,
+    "high_supplier_risk_records": 149419,
+    "average_daily_demand": 249.69,
+    "average_supplier_rating": 3.0,
+    "total_revenue": 50017493094.75,
+    "total_profit": 9001642610.56
+}
