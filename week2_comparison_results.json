@@ -1,0 +1,22 @@
+{
+    "demand_comparison": {
+        "average_actual_demand": 2750.43,
+        "average_forecast_demand": 9983.55,
+        "forecast_minus_actual": 7233.11
+    },
+    "supplier_performance": {
+        "average_supplier_rating": 3.0,
+        "average_lead_time_days": 44.99,
+        "average_on_time_delivery_rate": 49.97
+    },
+    "inventory_comparison": {
+        "low_stock_records": 10094,
+        "critical_stock_records": 5034,
+        "records_not_low_stock": 189906
+    },
+    "business_comparison": {
+        "total_revenue_usd": 50017493094.75,
+        "total_profit_usd": 9001642610.56,
+        "profit_margin_percent": 18.0
+    }
+}
