@@ -59,3 +59,30 @@ Learned how to load and inspect datasets using Pandas, perform data quality vali
 
 ### Technologies
 Python, Pandas, JSON, Google Gemini API.
+
+## Week 2 – Implementation Files and Evidence
+
+### Python Source Code
+- [Business Analysis](week2_business_analysis.py)
+- [Data Processing](week2_data_processing.py)
+- [Statistical Comparisons](week2_comparisons.py)
+- [Gemini API Test](week2_gemini_test.py)
+- [AI Recommendations](week2_ai_recommendations.py)
+
+### Output Files
+- [Business Metrics](week2_business_metrics.json)
+- [Comparison Results](week2_comparison_results.json)
+- [Generated AI Recommendations](week2_ai_recommendations.txt)
+
+### Technical Documentation
+- [Week 2 Documentation](WEEK2_DOCUMENTATION.md)
+- [Detailed Technical Implementation](WEEK2_TECHNICAL_IMPLEMENTATION.md)
+
+### Week 2 Features
+- Python data processing
+- Inventory stock classification
+- Reorder quantity calculation
+- Supplier risk analysis
+- Statistical comparisons
+- Google Gemini API integration
+- AI-generated supply chain recommendations
