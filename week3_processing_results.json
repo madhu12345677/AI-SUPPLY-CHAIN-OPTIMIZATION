@@ -1,0 +1,23 @@
+{
+    "total_records": 200000,
+    "duplicate_records": 0,
+    "invalid_numeric_values": 0,
+    "total_low_stock_records": 10094,
+    "low_stock_only_records": 5060,
+    "critical_stock_records": 5034,
+    "healthy_stock_records": 189037,
+    "high_supplier_risk_records": 149419,
+    "average_daily_demand": 249.69,
+    "average_actual_demand": 2750.43,
+    "average_forecast_demand": 9983.55,
+    "forecast_minus_actual": 7233.11,
+    "total_revenue": 50017493094.75,
+    "total_profit": 9001642610.56,
+    "profit_margin_percent": 18.0,
+    "business_insights": [
+        "Urgent attention required for 5034 critical stock records.",
+        "Review 149419 high supplier-risk records.",
+        "Forecast demand is higher than actual demand. Review forecasting assumptions.",
+        "Calculated profit margin is 18.00%."
+    ]
+}
